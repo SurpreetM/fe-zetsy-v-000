@@ -54,3 +54,7 @@ p  {
 #press img{
 	border: 5px rgb(205,205,205) solid;
 }
+
+#press img:hover {
+	border: 5px rgb(250,250,250) solid;
+}
