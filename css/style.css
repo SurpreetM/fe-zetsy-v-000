@@ -48,7 +48,7 @@ p  {
 
 /* Write all remaining styles here */
 
-header a {
+header {
 	color: rgb(152,173,166);
 	text-decoration: none;
 }
