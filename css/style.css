@@ -47,15 +47,27 @@ p  {
 }
 
 /* Write all remaining styles here */
+header a {
+	color: rgb(152,173,166);
+	text-decoration: none;
+}
+
+header a:hover {
+	color: rgb(111,127,122);
+}
+
 #featured img {
 	border: 5px rgb(152,173,166) solid;
 }
 
 #featured a {
-	color: green;
+	color: #1783bb;
 	text-decoration: none;
 }
 
+#featured a:hover {
+	text-decoration: underline;
+}
 
 #press {
 	margin-bottom: 20px;
