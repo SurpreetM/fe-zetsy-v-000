@@ -55,9 +55,6 @@ header a:hover {
 	color: rgb(111,127,122);
 }
 
-img#featured {
-	border: 5px rgb(152,173,166) solid;
-}
 
 body > div.wrapper > section:nth-child(2) > img {
 	border: 5px rgb(152,173,166) solid;
